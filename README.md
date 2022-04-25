@@ -1,4 +1,4 @@
-[![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
+[![](https://el-psy-congroo-mohi.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-mohi)
 
 # Hi, I'm Crunchii
 
