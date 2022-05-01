@@ -1,5 +1,5 @@
 [![](https://el-psy-congroo-mohi.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-mohi)
-<p align="left"><img src="https://count.getloli.com/get/@mohizuki?theme=asoul" alt="Mohizuki"></p>
+
 # Hi, I'm Crunchii
 
 An amateur web developer from ID, based in Barabai
