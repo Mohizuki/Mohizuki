@@ -10,7 +10,6 @@ An amateur web developer from ID, based in Barabai
 const crunchii = {
   code: [Javascript, HTML, CSS, Python, PHP],
   tools: [React, Node, Styled-Components, AdobeDreamWeaver, CSP, OpenCanvas7, Ableton, AdobePremiere, Adobe],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   shits: {
                         Drawing: "CSP",
                         Coding: "AdobeDreamWeaver",
