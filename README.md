@@ -9,7 +9,7 @@ An amateur web developer from ID, based in Barabai.
 ```javascript
 const crunchii = {
   code: [Javascript, HTML, CSS, Python, PHP],
-  tools: [React, Node, Styled-Components, AdobeDreamWeaver, CSP, OpenCanvas7, Ableton, AdobePremiere, Adobe],
+  tools: [React, Node, Styled-Components, AdobeDreamWeaver, CSP, OpenCanvas7, Ableton, AdobePremiere, AdobeAfterEffect],
   shits: {
                         Drawing: "CSP",
                         Coding: "AdobeDreamWeaver",
