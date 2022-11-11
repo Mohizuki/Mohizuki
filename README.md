@@ -2,7 +2,7 @@
 
 # Hi, I'm Crunchii
 
-This year I plan on continuing to work on some open source projects in my free time. I also have some ambitious projects that are very slowly being materialized on my disk. If I ever complete them, I may be happy
+This year I plan on continuing to work on some open source projects in my free time. I also have some ambitious projects that are very slowly being materialized on my disk. If I ever complete them, I'd be v happy
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
