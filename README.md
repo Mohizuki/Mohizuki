@@ -21,4 +21,5 @@ const crunchii = {
 ```
 
 June - October 2022, Busy with lots of project and illustration
+
 November 18 - 28, Having low back pain which make me making no progress at all
