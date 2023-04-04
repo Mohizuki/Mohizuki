@@ -1,7 +1,7 @@
 <h3 align=center>Hi, i'm Crunchii</h3> 
 <h4 align=center>FED, Illustrator and Game Designer.</h4>
 
-<h5 align=center> I'm ``Currently`` on multiple projects include Game Dev, UI/UX, Illustration and Web Dev projects since i working as FED, Illustrator and Game Designer.</h5>
+<h5 align=center> I'm ``Currently`` on multiple projects include Game Dev, UI/UX, Illustration and Web Dev projects.</h5>
 
 <h5 align=center> This year I plan on continuing to work on some open source projects in my free time. I also have some ambitious projects that are very slowly being materialized on my disk. If I ever complete them, I'd be v happy </h5>
 
@@ -28,10 +28,10 @@ const crunchii = {
 - [ ] Chii's Illustration (Personal) [priority]
 
 <br>
-``June - October 2022``, Busy with lots of project and illustration<br>
-``November 18 - 28``, Having low back pain which make me making no progress at all<br>
-``End of 2022``, i was in multiple projects qwq this is quite sad i focused on quantity rather quality.<br>
-``Early of 2023``, becoming an intern after being selected and tested<br>
-``April``, starting a new game project
+``June - October 2022``---- Busy with lots of project and illustration<br>
+``November 18 - 28``---- Having low back pain which make me making no progress at all<br>
+``End of 2022``---- i was in multiple projects qwq this is quite sad i focused on quantity rather quality.<br>
+``Early of 2023``---- becoming an intern after being selected and tested<br>
+``April``---- starting a new game project
 
 [![](https://el-psy-congroo-mohi.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-mohi)
