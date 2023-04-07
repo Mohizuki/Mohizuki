@@ -5,7 +5,7 @@
 
 <h5 align=center> This year I plan on continuing to work on some open source projects in my free time. I also have some ambitious projects that are very slowly being materialized on my disk. If I ever complete them, I'd be v happy </h5>
 
-#### <img src="https://media.giphy.com/media/iJJOmgeWguyXBXh7C6/giphy.gif" width="30"> A little what can i do <img src="https://media.giphy.com/media/iJJOmgeWguyXBXh7C6/giphy.gif" width="30"> 
+#### <img src="https://media.giphy.com/media/iJJOmgeWguyXBXh7C6/giphy.gif" width="30"> A little what i can do <img src="https://media.giphy.com/media/iJJOmgeWguyXBXh7C6/giphy.gif" width="30"> 
 
 ```javascript
 const crunchii = {
@@ -23,8 +23,8 @@ const crunchii = {
 
 ### These are project lists that im been working on rn
 - [ ] Polbangtan Medan Web Design (as intern)
-- [ ] Game Assets (Competition Project)
-- [ ] Crunchii's Porto (Personal) [underwork]
+- [ ] Game Assets (Competition Project) [priority]
+- [ ] Crunchii's Porto (Personal) [inferiority]
 - [ ] Chii's Illustration (Personal) [priority]
 
 <br>
