@@ -22,7 +22,7 @@ const crunchii = {
 <br>
 
 ### These are project lists that im been working on rn
-- [ ] Polbangtan Medan Web Design (as intern)
+- [X] Polbangtan Medan Web Design (as intern)
 - [ ] Game Assets (Competition Project) [priority]
 - [ ] Crunchii's Porto (Personal) [inferiority]
 - [ ] Chii's Illustration (Personal) [priority]
