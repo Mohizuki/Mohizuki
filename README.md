@@ -10,7 +10,7 @@ Most my repo and org are privates, but public repo will be provides on [crunchii
 [porto]: #
 [org]: [https://github.com/chiyadev](https://github.com/crunchii-works)
 
-<h4> current project :</h4>
+Current Projects:
 
 - [X] Web Design client's project(as intern)
 - [X] Slicing client's design (as intern)
