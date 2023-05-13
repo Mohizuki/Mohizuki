@@ -1,39 +1,22 @@
-<h3 align=center>Hi, i'm Crunchii</h3> 
-<h4 align=center>FED, Illustrator and Game Designer.</h4>
+<h3 align=left>Hi, i'm Crunchii</h3> 
+<h5 align=left>FED, Illustrator and Game Designer.</h5>
 
-<h5 align=center> I'm ``Currently`` on multiple projects include Game Dev, UI/UX, Illustration and Web Dev projects.</h5>
+[instagram/crunchill][ig]<br/>
+[portofolio][porto] (soon)
 
-<h5 align=center> This year I plan on continuing to work on some open source projects in my free time. I also have some ambitious projects that are very slowly being materialized on my disk. If I ever complete them, I'd be v happy </h5>
+Most my repo and org are privates, but public repo will be provides on [crunchii.works][org] (soon) !
 
-#### <img src="https://media.giphy.com/media/iJJOmgeWguyXBXh7C6/giphy.gif" width="30"> A little what i can do <img src="https://media.giphy.com/media/iJJOmgeWguyXBXh7C6/giphy.gif" width="30"> 
+[ig]: https://www.instagram.com/crunchill/
+[porto]: #
+[org]: [https://github.com/chiyadev](https://github.com/crunchii-works)
 
-```javascript
-const crunchii = {
-  code: [Javascript, HTML, CSS, Python, PHP, C#],
-  tools: [React, Node, Styled-Components, AdobeDreamWeaver, CSP, OpenCanvas7, Ableton, AdobePr, AdobeAe, Unity],
-  shits: {
-            Drawing: "CSP",
-            Coding: "AdobeDreamWeaver",
-            MakingMusic: "Ableton",
-            Editing: ["AdobePr", "Adobe Photoshop", "Adobe Ae"],
-         },
-}
-```
-<br>
+<h4> current project :</h4>
 
-### These are project lists that im been working on rn
 - [X] Web Design client's project(as intern)
 - [X] Slicing client's design (as intern)
-- [ ] Hukata's bot (underwork)
-- [ ] Game Assets (underwork) [priority]
+- [ ] Hukata's bot (underwork) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQzZWU1NTkxNmIyZmUxMjcwM2Q3ZGZkNGYyYzJjNTEwNzU4MDZkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/tnoLsntSFnI4yH9ndn/giphy.gif" width="30"> 
+- [ ] Game Assets (underwork) [priority]  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQzZWU1NTkxNmIyZmUxMjcwM2Q3ZGZkNGYyYzJjNTEwNzU4MDZkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/tnoLsntSFnI4yH9ndn/giphy.gif" width="30"> 
 - [ ] Crunchii's Porto (Personal) [inferiority]
 - [ ] Chii's Illustration (Personal) [priority]
-
-<br>
-``June - October 2022``---- Busy with lots of project and illustration<br>
-``November 18 - 28``---- Having low back pain which make me making no progress at all<br>
-``End of 2022``---- i was in multiple projects qwq this is quite sad i focused on quantity rather quality.<br>
-``Early of 2023``---- becoming an intern after being selected and tested<br>
-``April``---- starting a new game project
 
 [![](https://el-psy-congroo-mohi.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-mohi)
