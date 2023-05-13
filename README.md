@@ -2,13 +2,15 @@
 <h5 align=left>FED, Illustrator and Game Designer.</h5>
 
 [instagram/crunchill][ig]<br/>
+[twitch.tv/crunchii][tw]<br/>
 [portofolio][porto] (soon)
 
 Most my repo and org are privates, but public repo will be provides on [crunchii.works][org] (soon) !
 
 [ig]: https://www.instagram.com/crunchill/
+[tw]: https://www.twitch.tv/crunchii
 [porto]: #
-[org]: [https://github.com/chiyadev](https://github.com/crunchii-works)
+[org]: https://github.com/crunchii-works
 
 Current Projects:
 
