@@ -11,6 +11,7 @@ Most my repo and org are privates, but public repo will be provides on [crunchii
 [tw]: https://www.twitch.tv/crunchii
 [porto]: #
 [org]: https://github.com/crunchii-works
+[4]: https://count.chiya.dev/get/@crunchii?theme=asoul
 
 Current Projects:
 
@@ -21,4 +22,6 @@ Current Projects:
 - [ ] Crunchii's Porto (Personal) [inferiority] (underwork)
 - [ ] Chii's Illustration (Personal) [priority]
 
-[![](https://el-psy-congroo-mohi.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-mohi)
+Counter :
+
+![Moe-counter][4]
