@@ -13,15 +13,6 @@ Most my repo and org are privates, but public repo will be provides on [crunchii
 [org]: https://github.com/crunchii-works
 [4]: https://count.chiya.dev/get/@crunchii?theme=asoul
 
-Current Projects:
-
-- [X] Web Design client's project(as intern)
-- [X] Slicing client's design (as intern)
-- [X] Hukata's bot (underwork) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQzZWU1NTkxNmIyZmUxMjcwM2Q3ZGZkNGYyYzJjNTEwNzU4MDZkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/tnoLsntSFnI4yH9ndn/giphy.gif" width="30"> 
-- [ ] Game Assets (underwork) [priority]  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQzZWU1NTkxNmIyZmUxMjcwM2Q3ZGZkNGYyYzJjNTEwNzU4MDZkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/tnoLsntSFnI4yH9ndn/giphy.gif" width="30"> 
-- [ ] Crunchii's Porto (Personal) [inferiority] (underwork)
-- [ ] Chii's Illustration (Personal) [priority]
-
 Counter :
 
 ![Moe-counter][4]
