@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Mohizuki/Mohizuki/blob/main/README.md)
+[![es](https://img.shields.io/badge/lang-jp-blue.svg)](https://github.com/Mohizuki/Mohizuki/blob/main/README.jp.md)
+
 <h3 align=left>Hi, i'm Crunchii</h3> 
 <h5 align=left>FED, Illustrator and Game Designer.</h5>
 
