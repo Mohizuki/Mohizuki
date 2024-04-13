@@ -2,13 +2,13 @@
 [![es](https://img.shields.io/badge/lang-jp-blue.svg)](https://github.com/Mohizuki/Mohizuki/blob/main/README.jp.md)
 
 <h3 align=left>Hi, i'm Crunchii</h3> 
-<h5 align=left>FED, Illustrator and Game Designer.</h5>
+<h5 align=left>FED, illustrator, and game designer.</h5>
 
 [instagram/crunchill][ig]<br/>
 [twitch.tv/crunchii][tw]<br/>
 [portofolio][porto] (soon)
 
-Most my repo and org are privates, but public repo will be provides on [crunchii.works][org] (soon) !
+Most my repo and org are privates, but public repo will be provided on [crunchii.works][org] (soon) !
 
 <h5 align=left>Stuff</h5>
 
