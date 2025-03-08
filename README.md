@@ -4,8 +4,8 @@
 <h3 align=left>Hi, i'm Crunchii</h3> 
 <h5 align=left>FED, illustrator, and game designer.</h5>
 
-[instagram/crunchill][ig]<br/>
-[twitch.tv/crunchii][tw]<br/>
+[instagram][ig]<br/>
+[twitch.tv][tw]<br/>
 [portofolio][porto]
 
 Most my repo and org are privates, but public repo will be provided on [crunchii.works][org] (soon) !
