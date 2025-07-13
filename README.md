@@ -6,7 +6,6 @@
 
 [instagram][ig]<br/>
 [twitch.tv][tw]<br/>
-[portofolio][porto]
 
 Most my repo and org are privates, but public repo will be provided on [coming soon] !
 
