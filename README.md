@@ -8,7 +8,7 @@
 [twitch.tv][tw]<br/>
 [portofolio][porto]
 
-Most my repo and org are privates, but public repo will be provided on [crunchii.tech][org] !
+Most my repo and org are privates, but public repo will be provided on [coming soon] !
 
 <h5 align=left>Stuff</h5>
 
