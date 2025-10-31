@@ -7,7 +7,7 @@
 [instagram][ig]<br/>
 [twitch.tv][tw]<br/>
 
-Most my repo and org are privates, but public repo will be provided on [coming soon] !
+Most my repo and org are privates, but public repo will be provided on [Crunchii][org] !
 
 <h5 align=left>Stuff</h5>
 
@@ -33,6 +33,5 @@ Most my repo and org are privates, but public repo will be provided on [coming s
 
 [ig]: https://www.instagram.com/crunchill/
 [tw]: https://www.twitch.tv/crunchii
-[porto]: https://crunchii.tech
 [org]: https://crunchii.tech
 [4]: https://count.chiya.dev/get/@crunchii?theme=asoul
